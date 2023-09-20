@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://hwell-pmda5zl2i-devdong9897.vercel.app/
+Host: https://hwell-app-dw.vercel.app/
 
 # Sitemaps
-Sitemap: https://hwell-pmda5zl2i-devdong9897.vercel.app/sitemap.xml
+Sitemap: https://hwell-app-dw.vercel.app/sitemap.xml
